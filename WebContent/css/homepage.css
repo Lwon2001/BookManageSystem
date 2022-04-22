@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-size: 16px;
+}
+
+.top{
+    width: 100%;
+    height: 50px;
+    background-color: white;
+}
+
+.top_right
+{
+    float: right;
+}
+
+.top_right a{
+    text-decoration: none;
+    color: #000;
+}
+
+.guide_line{
+    height: 80px;
+    width: 90%;
+    color: #FF9B19;
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 0;
+    margin: 0 auto;
+}
+
+.guide_line ul li a{
+    text-decoration: none;
+    color: #FF9B19;
+}
+
+.logo h3{
+    font-size: 24px;
+    letter-spacing: 3px;
+}
+
+.guide_line ul li{
+    display: inline-block;
+    margin-left: 30px;
+}
+
+.guide_line ul li a:hover{
+    color: #333333;
+}
+
+.guide_line ul .active a{
+    color:#333333
+}
+
+.head{
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    color: #FF9B19;
+    padding: 15px 0;
+    margin: 0 auto;
+}

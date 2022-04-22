@@ -1,0 +1,9 @@
+#admin_left{
+	border: 0px solid red;
+	width: 100%;
+	height: 355px;
+}
+ul li{
+	display: inline;
+	color: black;
+}
